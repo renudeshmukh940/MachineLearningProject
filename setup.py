@@ -23,8 +23,8 @@ setup(
     name='mlproject',
       version='1.0',
       description='End to End Machine Learning Project',
-      author='Saurabh',
-      author_email='saurabhgk7@gmail.com',
+      author='Renu',
+      author_email='deshmukhrenu4@gmail.com',
       packages=find_packages(),
       install_requires=get_requirements('requirements.txt')
 )
